@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "the-gryphon-lounge": {
+      "hosting": {
+        "angular-site": [
+          "the-gryphon-lounge"
+        ]
+      }
+    }
+  }
+}
