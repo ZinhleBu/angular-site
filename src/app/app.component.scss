@@ -1,0 +1,16 @@
+main {
+    min-height: 100%;
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    .container {
+        min-width: 100%;
+        position: relative;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin: 0 10vw 0 10vw;
+    }
+}
