@@ -2,12 +2,10 @@
         min-width: 80vw;
         min-height: 100%;
         position: relative;
-        padding: 0 3rem 0 3rem;
         display: flex;
         flex-direction: row;
         justify-content: space-between;
         @media (max-width: 980px) {
-            padding: 0 5rem 0 5rem;
             margin-top: 10vh;
             flex-direction: column;
             min-height: 100%;
@@ -97,14 +95,11 @@
         .info-wrapper {
             min-width: 100%;
             min-height: 100%;
-            padding: 5rem 3rem 5rem 3rem;
+            padding: 1rem;
             display: flex;
             justify-content: center;
             @media (max-width: 980px) {
                 flex-direction: column;
-            }
-            @media (max-width: 490px) {
-                padding: 5rem 3rem 5rem 3rem;
             }
             .cards {
                 min-width: 100%;
